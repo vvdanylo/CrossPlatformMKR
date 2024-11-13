@@ -12,7 +12,7 @@ Run the command from this folder:
 ```bash
 dotnet run --project App
 ```
-The input file `INPUT.TXT' is located in this folder
+The input file `INPUT.TXT` is located in this folder
 
 The output file `OUTPUT.TXT` is written in this folder
 
